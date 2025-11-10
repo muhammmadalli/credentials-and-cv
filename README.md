@@ -59,7 +59,7 @@ a repo containing all of my certifications and-or their summary along with cv an
 
 - 📄 [CISA domains.docx](ISACA/CISA/CISA%20domains.docx)
 - 📄 [CISA domains.pdf](ISACA/CISA/CISA%20domains.pdf)
-- 📄 [CISA-certification-252937250.jpg](ISACA/CISA/CISA-certification-252937250.jpg)
+- 🖼️ [CISA-certification-252937250.jpg](ISACA/CISA/CISA-certification-252937250.jpg)
 - 📄 [CISA-certification-252937250.pdf](ISACA/CISA/CISA-certification-252937250.pdf)
 - 📄 [cpe-certificate-CISA-Exam-Passer.pdf](ISACA/CISA/cpe-certificate-CISA-Exam-Passer.pdf)
 
