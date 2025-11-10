@@ -42,11 +42,12 @@ jobs:
 
               # List files in the directory with type-based emojis
               find "$dir" -maxdepth 1 -type f ! -name ".*" | sort | while IFS= read -r file; do
+
                 file_name=$(basename "$file")
                 file_path=$(echo "$file" | sed 's|^\./||;s/ /%20/g')
-
+                
                 # Convert filename to lowercase for safer matching
-                file_lower=$(echo "$file_name" | tr '[:upper:]' '[:lower:]')
+                file_lower=$(echo "$file_name" | tr '[:upper:]' '[:lower:]')                
 
                 # Emoji based on file extension
                 case "$file_lower" in
