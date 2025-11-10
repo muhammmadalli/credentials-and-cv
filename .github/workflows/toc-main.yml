@@ -33,25 +33,34 @@ jobs:
 
           # Generate Markdown TOC with links
           generate_structure() {
-            echo "## 📁 Repository Structure" > "$TOC_TMP"
-            echo "" >> "$TOC_TMP"
+          echo "## 📁 Repository Structure" > "$TOC_TMP"
+          echo "" >> "$TOC_TMP"
 
-            find . -type d ! -path './.*' -print0 | while IFS= read -r -d '' dir; do
-              indent=$(echo "$dir" | grep -o "/" | wc -l)
-              prefix=$(printf '  %.0s' $(seq 1 $indent))
-              dir_name=$(basename "$dir")
-              echo "${prefix}- 📁 $dir_name" >> "$TOC_TMP"
+          find . -type d ! -path './.github*' ! -path './.*' -print0 | while IFS= read -r -d '' dir; do
+            indent=$(echo "$dir" | grep -o "/" | wc -l)
+            prefix=$(printf '  %.0s' $(seq 1 $indent))
+            dir_name=$(basename "$dir")
+            if [ "$dir" != "." ]; then
+              echo "${prefix}<details>" >> "$TOC_TMP"
+              echo "${prefix}<summary>📁 **$dir_name**</summary>" >> "$TOC_TMP"
+              echo "" >> "$TOC_TMP"
+            fi
 
-              find "$dir" -maxdepth 1 -type f ! -name ".*" -print0 | while IFS= read -r -d '' file; do
-                file_indent=$((indent + 1))
-                file_prefix=$(printf '  %.0s' $(seq 1 $file_indent))
-                file_name=$(basename "$file")
-                file_path=$(echo "$file" | sed 's|^\./||')
-                file_link=$(echo "$file_path" | sed 's/ /%20/g')
-                echo "${file_prefix}- 📄 [$file_name]($file_link)" >> "$TOC_TMP"
-              done
+            find "$dir" -maxdepth 1 -type f ! -name ".*" -print0 | while IFS= read -r -d '' file; do
+              file_indent=$((indent + 1))
+              file_prefix=$(printf '  %.0s' $(seq 1 $file_indent))
+              file_name=$(basename "$file")
+              file_path=$(echo "$file" | sed 's|^\./||')
+              file_link=$(echo "$file_path" | sed 's/ /%20/g')
+              echo "${file_prefix}- 📄 [$file_name]($file_link)" >> "$TOC_TMP"
             done
-          }
+
+            if [ "$dir" != "." ]; then
+              echo "" >> "$TOC_TMP"
+              echo "${prefix}</details>" >> "$TOC_TMP"
+            fi
+          done
+          }         
 
           # Insert TOC into README.md
           insert_toc() {
