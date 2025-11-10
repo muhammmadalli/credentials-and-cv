@@ -1,0 +1,8 @@
+
+I have a tough fulltime job schedule, which gives me little time to pursue a traditional masters. I have recently undertaken "Learn to Code with Chat GPT" offered by Quantic for free and have found it to be highly engaging and knowledgeable. The pedagogy employed was also novel, nuanced and extremely helpful. 
+
+I have always been fascinated and inspired by software developers. My appreciation of software engineering has ever increased while deploying and integrating a number of servers and softwares in the recent past, such as DNS Server, NextCloud Server. Therefore, I have decided to get formally trained in the discipline by undertaking Masters in Software Engineering. 
+
+Throughout my Bachelor in Engineering (Avionics). I have solved problems using MATLAB. In addition, I've also had a custom reinteraction with C, C# anD Arduino. I have also completed "Programming Fundamentals with JavaScript, HTML, and CSS" with Honors by Duke University and have experimented with building webpages. I am also undertaking "Meta Front-End Developer" Specialization by Meta.
+
+I've had the opportunity to read Quantic School of Business and Technology Alumni reviews background. And current employment. I've loved the facts that. Alumni of Quantic. Keep the alma mater in high regard. Hey, Cortana. They've had previous education in renowned institutions like. Like Oxford, Harvard and MIT. And are currently employed in a leading technologies Companies like Google, Microsoft and Amazon. Thus, 
