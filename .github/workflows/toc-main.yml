@@ -41,13 +41,18 @@ jobs:
               echo "" >> "$TOC_TMP"
 
               # List files in the directory with type-based emojis
-              find "$dir" -maxdepth 1 -type f ! -name ".*" | sort | while read -r file; do
+              find "$dir" -maxdepth 1 -type f ! -name ".*" | sort | while IFS= read -r file; do
                 file_name=$(basename "$file")
                 file_path=$(echo "$file" | sed 's|^\./||;s/ /%20/g')
 
+                # Convert filename to lowercase for safer matching
+                file_lower=$(echo "$file_name" | tr '[:upper:]' '[:lower:]')
+
                 # Emoji based on file extension
-                case "$file_name" in
+                case "$file_lower" in
                   *.md) emoji="📄" ;;
+                  *.pdf) emoji="📄" ;;
+                  *.doc|*.docx) emoji="📝" ;;
                   *.py) emoji="🐍" ;;
                   *.js) emoji="✨" ;;
                   *.json) emoji="🗂️" ;;
@@ -65,7 +70,7 @@ jobs:
 
                 echo "- $emoji [$file_name]($file_path)" >> "$TOC_TMP"
               done
-
+              
               echo "" >> "$TOC_TMP"
               echo "</details>" >> "$TOC_TMP"
               echo "" >> "$TOC_TMP"
