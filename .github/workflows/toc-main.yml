@@ -21,11 +21,6 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-#      - name: Run TOC generator
-#        run: |
-#          chmod +x .github/scripts/generate_toc.sh
-#          .github/scripts/generate_toc.sh
-
       - name: Generate TOC
         run: |
           README="README.md"
