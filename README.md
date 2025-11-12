@@ -49,19 +49,20 @@ a repo containing all of my certifications and-or their summary along with cv an
 </details>
 
 <details>
-<summary><strong>ISACA</strong></summary>
+<summary><strong>ISACA-CISA</strong></summary>
 
+- [CISA domains.docx](ISACA-CISA/CISA%20domains.docx)
+- [CISA domains.pdf](ISACA-CISA/CISA%20domains.pdf)
+- [CISA-certification-252937250.jpg](ISACA-CISA/CISA-certification-252937250.jpg)
+- [CISA-certification-252937250.pdf](ISACA-CISA/CISA-certification-252937250.pdf)
+- [cpe-certificate-CISA-Exam-Passer.pdf](ISACA-CISA/cpe-certificate-CISA-Exam-Passer.pdf)
 
 </details>
 
 <details>
-<summary><strong>CISA</strong></summary>
+<summary><strong>Resume</strong></summary>
 
-- [CISA domains.docx](ISACA/CISA/CISA%20domains.docx)
-- [CISA domains.pdf](ISACA/CISA/CISA%20domains.pdf)
-- [CISA-certification-252937250.jpg](ISACA/CISA/CISA-certification-252937250.jpg)
-- [CISA-certification-252937250.pdf](ISACA/CISA/CISA-certification-252937250.pdf)
-- [cpe-certificate-CISA-Exam-Passer.pdf](ISACA/CISA/cpe-certificate-CISA-Exam-Passer.pdf)
+- [network engr resume - aesthetic blue - a4.docx](Resume/network%20engr%20resume%20-%20aesthetic%20blue%20-%20a4.docx)
 
 </details>
 
