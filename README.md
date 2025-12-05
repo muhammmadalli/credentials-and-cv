@@ -62,7 +62,12 @@ a repo containing all of my certifications and-or their summary along with cv an
 <details>
 <summary><strong>Resume</strong></summary>
 
+- [bnw hash resume.docx](Resume/bnw%20hash%20resume.docx)
+- [brown back resume.docx](Resume/brown%20back%20resume.docx)
+- [contrast resume.docx](Resume/contrast%20resume.docx)
+- [network engr resume - 13112025.pdf](Resume/network%20engr%20resume%20-%2013112025.pdf)
 - [network engr resume - aesthetic blue - a4.docx](Resume/network%20engr%20resume%20-%20aesthetic%20blue%20-%20a4.docx)
+- [seagreen back resume.docx](Resume/seagreen%20back%20resume.docx)
 
 </details>
 
