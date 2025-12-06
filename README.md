@@ -18,10 +18,8 @@ a repo containing all of my certifications and-or their summary along with cv an
 <summary><strong>CV</strong></summary>
 
 - [a4 cv 20102025.pdf](CV/a4%20cv%2020102025.pdf)
-- [ali cv Dark-Blue.docx](CV/ali%20cv%20Dark-Blue.docx)
 - [ali pro cv aesthetic blue - a4.docx](CV/ali%20pro%20cv%20aesthetic%20blue%20-%20a4.docx)
-- [ali pro cv aesthetic blue - letter.docx](CV/ali%20pro%20cv%20aesthetic%20blue%20-%20letter.docx)
-- [letter cv 20102025.pdf](CV/letter%20cv%2020102025.pdf)
+- [cv Dark-Blue.docx](CV/cv%20Dark-Blue.docx)
 
 </details>
 
