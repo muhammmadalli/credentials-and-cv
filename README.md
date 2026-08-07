@@ -38,6 +38,13 @@ a repo containing all of my certifications and-or their summary along with cv an
 </details>
 
 <details>
+<summary><strong>Formal Education</strong></summary>
+
+- [BE Avionics Transcript.pdf](Formal%20Education/BE%20Avionics%20Transcript.pdf)
+
+</details>
+
+<details>
 <summary><strong>HP Life</strong></summary>
 
 - [AI for Beginners.pdf](HP%20Life/AI%20for%20Beginners.pdf)
@@ -54,6 +61,23 @@ a repo containing all of my certifications and-or their summary along with cv an
 - [CISA-certification-252937250.jpg](ISACA-CISA/CISA-certification-252937250.jpg)
 - [CISA-certification-252937250.pdf](ISACA-CISA/CISA-certification-252937250.pdf)
 - [cpe-certificate-CISA-Exam-Passer.pdf](ISACA-CISA/cpe-certificate-CISA-Exam-Passer.pdf)
+
+</details>
+
+<details>
+<summary><strong>Profile Resources</strong></summary>
+
+
+</details>
+
+<details>
+<summary><strong>Icons</strong></summary>
+
+- [500px-Docker_Logo.svg.png](Profile%20Resources/Icons/500px-Docker_Logo.svg.png)
+- [Android_Studio_Logo_(2023).svg](Profile%20Resources/Icons/Android_Studio_Logo_(2023).svg)
+- [Visual_Studio_Code_1.35_icon.svg](Profile%20Resources/Icons/Visual_Studio_Code_1.35_icon.svg)
+- [Visual_Studio_Icon_2026.svg](Profile%20Resources/Icons/Visual_Studio_Icon_2026.svg)
+- [python-logo.png](Profile%20Resources/Icons/python-logo.png)
 
 </details>
 
