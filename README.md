@@ -73,9 +73,9 @@ a repo containing all of my certifications and-or their summary along with cv an
 <details>
 <summary><strong>Icons</strong></summary>
 
-- [500px-Docker_Logo.svg.png](Profile%20Resources/Icons/500px-Docker_Logo.svg.png)
 - [Amazon_Web_Services_2025.svg](Profile%20Resources/Icons/Amazon_Web_Services_2025.svg)
 - [Android_Studio_Logo_(2023).svg](Profile%20Resources/Icons/Android_Studio_Logo_(2023).svg)
+- [Docker_Logo.svg](Profile%20Resources/Icons/Docker_Logo.svg)
 - [Nextcloud_Logo.svg](Profile%20Resources/Icons/Nextcloud_Logo.svg)
 - [Visual_Studio_Code_1.35_icon.svg](Profile%20Resources/Icons/Visual_Studio_Code_1.35_icon.svg)
 - [Visual_Studio_Icon_2026.svg](Profile%20Resources/Icons/Visual_Studio_Icon_2026.svg)
