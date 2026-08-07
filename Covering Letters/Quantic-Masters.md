@@ -1,3 +1,7 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 
 I have a tough fulltime job schedule, which gives me little time to pursue a traditional masters. I have recently undertaken "Learn to Code with Chat GPT" offered by Quantic for free and have found it to be highly engaging and knowledgeable. The pedagogy employed was also novel, nuanced and extremely helpful. 
 
