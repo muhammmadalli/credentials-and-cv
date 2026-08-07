@@ -75,7 +75,11 @@ a repo containing all of my certifications and-or their summary along with cv an
 
 - [Amazon_Web_Services_2025.svg](Profile%20Resources/Icons/Amazon_Web_Services_2025.svg)
 - [Android_Studio_Logo_(2023).svg](Profile%20Resources/Icons/Android_Studio_Logo_(2023).svg)
+- [C_Sharp_Logo_2023.svg](Profile%20Resources/Icons/C_Sharp_Logo_2023.svg)
 - [Docker_Logo.svg](Profile%20Resources/Icons/Docker_Logo.svg)
+- [Gnu-bash-logo.svg](Profile%20Resources/Icons/Gnu-bash-logo.svg)
+- [Java_programming_language_logo.svg](Profile%20Resources/Icons/Java_programming_language_logo.svg)
+- [Kotlin_logo_(2025).svg](Profile%20Resources/Icons/Kotlin_logo_(2025).svg)
 - [Nextcloud_Logo.svg](Profile%20Resources/Icons/Nextcloud_Logo.svg)
 - [Visual_Studio_Code_1.35_icon.svg](Profile%20Resources/Icons/Visual_Studio_Code_1.35_icon.svg)
 - [Visual_Studio_Icon_2026.svg](Profile%20Resources/Icons/Visual_Studio_Icon_2026.svg)
